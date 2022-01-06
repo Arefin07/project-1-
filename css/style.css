@@ -1,0 +1,64 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width: 650px;
+	margin: 10% auto;
+}
+ body{
+ 	background: url(../image/bg.jpg);
+ 	background-size: cover;
+ 	font-family: 'Roboto', sans-serif;
+ }
+ .login-section{
+ 	background-color: cyan;
+    padding: 25px;
+
+ }
+.login-section {
+    background-color: #33ff0070;
+    padding: 25px;
+}
+.login-section{
+       margin: 0;
+    padding: 0;
+    text-align: center;
+}
+ 
+ .login-section h2{
+ 	    text-align: center;
+    color: black;
+    text-transform: uppercase;
+    margin: 10px 0px;
+}
+ 
+
+ .form-control{
+    width: 100%;
+    height: 35px;
+    margin-bottom: 10px;
+    padding: 5p
+ }
+
+ .submit-btn{
+ 	    background: black;
+    color: yellowgreen;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    margin: 0 auto;
+    display: block;
+    cursor: pointer;
+    transition: 0.4s ease-in-out;
+    -moz-transition:0.4s ease-in-out ;
+    -o-transition: 0.4s ease-in-out;
+    -webkit-transition: 0.4s ease-in-out;
+    
+
+
+ }
+ .submit-btn:hover{
+ 	box-shadow: 2px 4px 8px orange
+
+
+ }
